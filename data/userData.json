@@ -1,0 +1,32 @@
+[
+	{
+		"user_name":"tacrow",
+		"user_image":"http://lorempixel.com/88/88/people/1/",
+		"comment_text":"タックタクタックタクタックタクタックタクタックタクタックタクタックタクタックタク"
+	},
+	{
+		"user_name":"あゆご",
+		"user_image":"http://lorempixel.com/88/88/people/2/",
+		"comment_text":"まじうけるｗｗｗ"
+	},
+	{
+		"user_name":"まなてぃー",
+		"user_image":"http://lorempixel.com/88/88/people/3/",
+		"comment_text":"まなまなまなまなまなまなまなまなまなまなまなまなまなまなまなまなまなまなまなまなまなまなまなまなまなまなまなまな"
+	},
+	{
+		"user_name":"ありさ",
+		"user_image":"http://lorempixel.com/88/88/people/4/",
+		"comment_text":"テストテストテストテストテストテストテストテストテストテストテストテストテストテストテスト"
+	},
+	{
+		"user_name":"ひろき",
+		"user_image":"http://lorempixel.com/88/88/people/1/",
+		"comment_text":"いいね！"
+	},
+	{
+		"user_name":"ゆうか",
+		"user_image":"http://lorempixel.com/88/88/people/2/",
+		"comment_text":"テストテストテストテストテストテストテストテストテストテストテストテストテストテストテスト"
+	}
+]
